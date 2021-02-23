@@ -1,6 +1,6 @@
 # Advent-of-Code-2019
 
-Received 10 stars so far.
+Received 17 stars so far.
 
 The notebooks are best viewed on Google Colab, as GitHub does not render LaTeX in notebooks very well.
 
@@ -10,7 +10,7 @@ The notebooks are best viewed on Google Colab, as GitHub does not render LaTeX i
 [Day 4: Secure Container](https://github.com/mustafa-hotaki/Advent-of-Code-2019/blob/main/Day4/Day4.ipynb) \
 [Day 5: Sunny with a Chance of Asteroids](https://github.com/mustafa-hotaki/Advent-of-Code-2019/blob/main/Day5/Day5.ipynb) (Not currently uploaded or done.) \
 [Day 6: Universal Orbit Map](https://github.com/mustafa-hotaki/Advent-of-Code-2019/blob/main/Day6/Day6.ipynb) \
-[Day 7: Amplification Circuit](https://github.com/mustafa-hotaki/Advent-of-Code-2019/blob/main/Day7/Day7.ipynb) (Not currently uploaded or done.) \
+[Day 7: Amplification Circuit](https://github.com/mustafa-hotaki/Advent-of-Code-2019/blob/main/Day7/Day7.ipynb) \
 [Day 8: Space Image Format](https://github.com/mustafa-hotaki/Advent-of-Code-2019/blob/main/Day8/Day8.ipynb) \
 [Day 9: Sensor Boost](https://github.com/mustafa-hotaki/Advent-of-Code-2019/blob/main/Day9/Day9.ipynb) (Not currently uploaded or done.) \
 [Day 10: Monitoring Station](https://github.com/mustafa-hotaki/Advent-of-Code-2019/blob/main/Day10/Day10.ipynb) (Not currently uploaded or done.) \
